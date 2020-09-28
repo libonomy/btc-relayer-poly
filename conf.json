@@ -9,7 +9,7 @@
     "start_height": 0
   },
   "poly_ob_conf": {
-    "poly_json_rpc_address": "http://polynode",
+    "poly_json_rpc_address": "http://libonomy",
     "poly_ob_loop_wait_time": 5,
     "watching_key": "btcTxToRelay",
     "wallet_file": "wallet.dat",
